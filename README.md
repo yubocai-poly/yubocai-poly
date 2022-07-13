@@ -45,22 +45,10 @@ class AboutMe(Yubo_Cai):
             'Taylorsville High School': 'Science, Engineering and Math'
         }
         courses = [
-            'Mathematical Analysis', 'Advanced Programming', 'Mechanics',
-            'Micro/Macroeconimcs', 'Econometrics',
-            'Vector and Fourier Analysis', 'Algorithms', 'Numerical Analysis',
-            'Topology', 'Discrete Mathematics'
+            'Programming', 'Mechanics', 'Micro/Macroeconimcs', 'Econometrics', 'Vector and Fourier Analysis', 'Algorithms', 'Numerical Analysis','Topology', 'Discrete Mathematics'
         ]
 
         return (Bachelor, High_School, courses)
-
-    def Daily_Life(me):
-        while Am_I_alive == True:
-            Study = 'Mathematics and Computer Science'
-            Play = ['LOL', 'Netflix', 'Bilibili']
-            Eat = 'Messy food I cooked'
-            Sleep = 'As long as I can'
-            
-        return (Study, Play, Eat, Sleep)
 
     def Hobby(me):
         hobbies = ['Watching movies', 'Playing games', 'Listening to music']
