@@ -17,10 +17,22 @@ Major in Applied mathematics and Computer Sciences.
 
 
 <!-- 个人资料徽标 -->
-<a href="https://www.youtube.com/channel/UC4nDk0V8I1c6m3CIo0F2LIQ"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
-<a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a>&emsp;
-<a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
-<a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
+<a href="https://www.linkedin.com/in/yubo-cai-431966189/"><img src="https://img.shields.io/badge/Linkedin-%E9%A2%86%E8%8B%B1-green"></a>&emsp;
+<a href="mailto:yubo.cai@polytechnique.edu"><img src="https://img.shields.io/badge/Email-%E9%82%AE%E7%AE%B1-brightgreen"></a>&emsp;
+<a href="https://www.zhihu.com/people/yubocai-9"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```python
+class AboutMe(Yubo_Cai):
+    Short_Induction = "Hello, I am Yubo Cai, in Chinese 蔡宇博"
+
+    def __init__(self, name, origin, sex, birthday):
+        self.name = 'Yubo_Cai'
+        self.origin = 'Made in China'
+        self.sex = 'Male'
+        self.birthday = '2002-08-11'
+
+```
+
