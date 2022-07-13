@@ -88,6 +88,7 @@ class AboutMe(Yubo_Cai):
     
     Something_you_have_no_idea_about_me = 'I am a big fan of Yoasobi'
 ```
+</br>
 
 <!-- Gif -->
 <div align="center">
@@ -100,6 +101,7 @@ class AboutMe(Yubo_Cai):
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
 
+</br>
 <div align="center">
 <a href="https://github.com/yubocai-poly/Lossy-image-compression">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yubocai-poly&repo=Lossy-image-compression&theme=dark&bg_color=0d1117&hide_border=true" /></a>
@@ -107,6 +109,7 @@ class AboutMe(Yubo_Cai):
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=yubocai-poly&repo=Collected-games-website&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
+</br>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yubocai-poly" />
 </div>
