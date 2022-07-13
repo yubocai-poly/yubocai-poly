@@ -28,11 +28,59 @@ Major in Applied mathematics and Computer Sciences.
 class AboutMe(Yubo_Cai):
     Short_Induction = "Hello, I am Yubo Cai, in Chinese 蔡宇博"
 
-    def __init__(self, name, origin, sex, birthday):
+    def __init__(self, name, origin, sex, birthday, language):
         self.name = 'Yubo_Cai'
         self.origin = 'Made in China'
         self.sex = 'Male'
         self.birthday = '2002-08-11'
+        self.language = ['Chinese', 'Cantonese', 'English', 'French']
+
+    def Education(me):
+        Bachelor = {
+            'Ecole Polytechnique': 'Applied Mathematics and Computer Science',
+            'ESSEC Business School': 'Management and Finance'
+        }
+        High_School = {
+            '华中师范大学第一附属中学': '理科生',
+            'Taylorsville High School': 'Science, Engineering and Math'
+        }
+        courses = [
+            'Mathematical Analysis', 'Advanced Programming', 'Mechanics',
+            'Micro/Macroeconimcs', 'Econometrics',
+            'Vector and Fourier Analysis', 'Algorithms', 'Numerical Analysis',
+            'Topology', 'Discrete Mathematics'
+        ]
+
+        return (Bachelor, High_School, courses)
+
+    def Daily_Life(me):
+        while Am_I_alive == True:
+            Study = 'Mathematics and Computer Science'
+            Play = ['LOL', 'Netflix', 'Bilibili']
+            Eat = 'Messy food I cooked'
+            Sleep = 'As long as I can'
+            
+        return (Study, Play, Eat, Sleep)
+
+    def Hobby(me):
+        hobbies = ['Watching movies', 'Playing games', 'Listening to music']
+        sports = ['Tennis', 'Go Game', 'Badminton']
+        
+        return (hobbies, sports)
+    
+    def Skills(me):
+        Languages = ['Python', 'Matlab', 'C++', 'JavaScript', 'PHP', 'R', 'STATA', 'SQL', 'LaTeX']
+        Tools = ['VS Code', 'JupyterLab', 'Overleaf', 'R Studio', 'Julia', 'QT Creator']
+        
+        return (Languages, Tools)
+    
+    def Contact(me):
+        Email = 'yubo.cai@polytechnique.edu'
+        Phone_Number = '+133 0767197916'
+        
+        return (Email, Phone_Number)
+    
+    Something_you_have_no_idea_about_me = 'I am a big fan of Yoasobi'
 
 ```
 
