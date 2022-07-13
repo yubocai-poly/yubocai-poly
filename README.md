@@ -9,6 +9,10 @@
     </h2>
 </div>
 
+<div align='center'>
+       <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" width="500">
+</div>
+
 <img align='right' src='https://c.tenor.com/Var-vlWU2Z8AAAAd/yoasobi-gunjou.gif' height='150'>
 <p><em>Bachelor Student at <a href="https://www.polytechnique.edu/">Ecole Polytechnique</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>
