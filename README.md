@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22); Always humble to learn!&center=true&size=27">
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Not+a+good+coder%2C+but+always+humble+to+learn)](https://git.io/typing-svg)
 </h1>
 
 <h2> Hi, I'm Yubo Cai 蔡宇博! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
