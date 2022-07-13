@@ -62,13 +62,6 @@ class AboutMe(Yubo_Cai):
         
         return (Languages, Tools)
     
-    def Contact(me):
-        Email = 'yubo.cai@polytechnique.edu'
-        Phone_Number = '+133 0767197916'
-        
-        return (Email, Phone_Number)
-    
     Something_you_have_no_idea_about_me = 'I am a big fan of Yoasobi'
-
 ```
 
