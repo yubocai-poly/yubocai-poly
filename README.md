@@ -86,12 +86,10 @@ class AboutMe(Yubo_Cai):
         return (hobbies, sports)
     
     def Skills(me):
-        Languages = ['Python', 'Matlab', 'C++', 'JavaScript', 'PHP', 'R', 'STATA', 'SQL', 'LaTeX']
-        Tools = ['VS Code', 'JupyterLab', 'Overleaf', 'R Studio', 'Julia', 'QT Creator']
+        Languages = ['Python', 'Matlab', 'Julia', 'C++', 'C', 'JavaScript', 'PHP', 'R', 'STATA', 'SQL', 'LaTeX', 'Bash']
+        Tools = ['VS Code', 'JupyterLab', 'Overleaf', 'R Studio', 'QT Creator', 'Unix', 'Linux']
         
         return (Languages, Tools)
-    
-    Something_you_have_no_idea_about_me = 'I am a big fan of Yoasobi'
 ```
 </br>
 
