@@ -53,45 +53,6 @@ Major in Applied mathematics and Computer Sciences.
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```python
-class AboutMe(Yubo_Cai):
-    Short_Induction = "Hello, I am Yubo Cai, in Chinese 蔡宇博"
-
-    def __init__(self, name, origin, sex, birthday, language):
-        self.name = 'Yubo_Cai'
-        self.origin = 'Made in China'
-        self.sex = 'Male'
-        self.birthday = '2002-08-11'
-        self.language = ['Chinese', 'Cantonese', 'English', 'French']
-
-    def Education(me):
-        Bachelor = {
-            'Ecole Polytechnique': 'Applied Mathematics and Computer Science',
-            'ESSEC Business School': 'Management and Finance'
-        }
-        High_School = {
-            '华中师范大学第一附属中学': '理科生',
-            'Taylorsville High School': 'Science, Engineering and Math'
-        }
-        courses = [
-            'Programming', 'Mechanics', 'Micro/Macroeconimcs', 'Econometrics', 'Vector and Fourier Analysis', 'Algorithms', 'Numerical Analysis','Topology', 'Discrete Mathematics'
-        ]
-
-        return (Bachelor, High_School, courses)
-
-    def Hobby(me):
-        hobbies = ['Watching movies', 'Playing games', 'Listening to music']
-        sports = ['Tennis', 'Go Game', 'Badminton']
-        
-        return (hobbies, sports)
-    
-    def Skills(me):
-        Languages = ['Python', 'Matlab', 'Julia', 'C++', 'C', 'JavaScript', 'PHP', 'R', 'STATA', 'SQL', 'LaTeX', 'Bash']
-        Tools = ['VS Code', 'JupyterLab', 'Overleaf', 'R Studio', 'QT Creator', 'Unix', 'Linux']
-        
-        return (Languages, Tools)
-```
-</br>
 
 <!-- Gif -->
 <div align="center">
