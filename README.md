@@ -6,7 +6,7 @@
 
 # 👋 Hey, I'm Yubo Cai
 
-I'm a PhD student in Computational Science & Engineering at **MIT LIDS**, where I work on bringing optimization theory into combinatorial systems, with applications in multi-agent systems and beyond. Before MIT, I studied at **École Polytechnique** and the **University of Oxford**.
+I'm a PhD student in Computational Science & System Engineering at **MIT LIDS**, where I work on bringing optimization theory into combinatorial systems, with applications in multi-agent systems and beyond. Before MIT, I studied at **École Polytechnique** and the **University of Oxford**.
 
 I'm fascinated by the interplay between continuous optimization and discrete structures — finding elegant ways to make complex systems work smarter together.
 
